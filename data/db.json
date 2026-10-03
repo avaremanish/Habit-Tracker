@@ -258,6 +258,20 @@
       "date": "2026-10-02",
       "status": "completed",
       "loggedAt": "2026-10-02T18:16:46.123Z"
+    },
+    {
+      "id": "log-h-2-2026-10-03",
+      "habitId": "h-2",
+      "date": "2026-10-03",
+      "status": "completed",
+      "loggedAt": "2026-10-03T19:13:34.947Z"
+    },
+    {
+      "id": "log-h-5-2026-10-03",
+      "habitId": "h-5",
+      "date": "2026-10-03",
+      "status": "completed",
+      "loggedAt": "2026-10-03T19:13:37.289Z"
     }
   ],
   "freezes": [],
@@ -442,5 +456,5 @@
     "changesNextWeekAnswer": "Maintain daily discipline across all 10 life areas.",
     "savedAt": "2026-10-01T00:00:00Z"
   },
-  "lastSyncedAt": "2026-10-03T19:02:39.174Z"
+  "lastSyncedAt": "2026-10-03T19:20:41.323Z"
 }
