@@ -1,0 +1,446 @@
+{
+  "user": {
+    "name": "Manish",
+    "email": "manish@consist.app",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "freezeTokensRemaining": 3,
+    "maxFreezeTokens": 3,
+    "autoFreezeEnabled": true,
+    "consistencyScore": 88,
+    "momentumPercent": 15,
+    "totalHabitsCompleted": 14,
+    "overallStreak": 1
+  },
+  "habits": [
+    {
+      "id": "h-1",
+      "name": "WAKE UP AT 5AM",
+      "category": "Health",
+      "frequency": "daily",
+      "isMeasurable": false,
+      "timeOfDay": "morning",
+      "currentStreak": 8,
+      "bestStreak": 8,
+      "color": "#06b6d4",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "name": "Morning Cardio",
+      "category": "Fitness",
+      "frequency": "daily",
+      "isMeasurable": false,
+      "timeOfDay": "morning",
+      "color": "#00f2fe",
+      "id": "h-1790795591860",
+      "createdAt": "2026-10-01",
+      "currentStreak": 4,
+      "bestStreak": 4
+    },
+    {
+      "id": "h-3",
+      "name": "Meditation",
+      "category": "Mindfulness",
+      "frequency": "daily",
+      "isMeasurable": true,
+      "targetValue": 15,
+      "targetUnit": "minutes",
+      "timeOfDay": "morning",
+      "currentStreak": 10,
+      "bestStreak": 10,
+      "color": "#8b5cf6",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "h-2",
+      "name": "Workout",
+      "category": "Fitness",
+      "frequency": "specific_days",
+      "specificDays": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        3
+      ],
+      "isMeasurable": false,
+      "timeOfDay": "afternoon",
+      "currentStreak": 8,
+      "bestStreak": 8,
+      "color": "#00f2fe",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "h-4",
+      "name": "Read 20 Pages",
+      "category": "Learning",
+      "frequency": "daily",
+      "isMeasurable": true,
+      "targetValue": 10,
+      "targetUnit": "pages",
+      "timeOfDay": "night",
+      "currentStreak": 4,
+      "bestStreak": 4,
+      "color": "#06b6d4",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "h-5",
+      "name": "Hydrate 3 Liters",
+      "category": "Health",
+      "frequency": "daily",
+      "isMeasurable": true,
+      "targetValue": 3,
+      "targetUnit": "liters",
+      "timeOfDay": "anytime",
+      "currentStreak": 4,
+      "bestStreak": 4,
+      "color": "#06b6d4",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "h-6",
+      "name": "Journaling",
+      "category": "Mindfulness",
+      "frequency": "daily",
+      "isMeasurable": false,
+      "timeOfDay": "evening",
+      "currentStreak": 4,
+      "bestStreak": 4,
+      "color": "#a855f7",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "h-7",
+      "name": "Cold Shower",
+      "category": "Personal",
+      "frequency": "daily",
+      "isMeasurable": false,
+      "timeOfDay": "morning",
+      "currentStreak": 6,
+      "bestStreak": 6,
+      "color": "#00f2fe",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "h-8",
+      "name": "No Social Media after 9PM",
+      "category": "Mindfulness",
+      "frequency": "daily",
+      "isMeasurable": false,
+      "timeOfDay": "night",
+      "currentStreak": 5,
+      "bestStreak": 5,
+      "color": "#f43f5e",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "h-9",
+      "name": "Plan Next Day",
+      "category": "Work",
+      "frequency": "specific_days",
+      "specificDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "isMeasurable": false,
+      "timeOfDay": "evening",
+      "currentStreak": 5,
+      "bestStreak": 5,
+      "color": "#10b981",
+      "createdAt": "2026-10-01"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log-h-1-2026-10-01",
+      "habitId": "h-1",
+      "date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": "log-h-2-2026-10-01",
+      "habitId": "h-2",
+      "date": "2026-10-01",
+      "status": "completed",
+      "loggedAt": "2026-10-01T07:03:52.207Z"
+    },
+    {
+      "id": "log-h-3-2026-10-01",
+      "habitId": "h-3",
+      "date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": "log-h-4-2026-10-01",
+      "habitId": "h-4",
+      "date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": "log-h-5-2026-10-01",
+      "habitId": "h-5",
+      "date": "2026-10-01",
+      "status": "completed",
+      "loggedAt": "2026-10-02T18:15:46.623Z"
+    },
+    {
+      "id": "log-h-6-2026-10-01",
+      "habitId": "h-6",
+      "date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": "log-h-7-2026-10-01",
+      "habitId": "h-7",
+      "date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": "log-h-8-2026-10-01",
+      "habitId": "h-8",
+      "date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": "log-h-9-2026-10-01",
+      "habitId": "h-9",
+      "date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": "log-h-1790795591860-2026-10-01",
+      "habitId": "h-1790795591860",
+      "date": "2026-10-01",
+      "status": "completed",
+      "loggedAt": "2026-10-01T07:05:32.190Z"
+    },
+    {
+      "id": "log-h-2-2026-10-04",
+      "habitId": "h-2",
+      "date": "2026-10-04",
+      "status": "pending"
+    },
+    {
+      "id": "log-h-2-2026-10-02",
+      "habitId": "h-2",
+      "date": "2026-10-02",
+      "status": "completed",
+      "loggedAt": "2026-10-02T18:00:12.265Z"
+    },
+    {
+      "id": "log-h-5-2026-10-02",
+      "habitId": "h-5",
+      "date": "2026-10-02",
+      "status": "completed",
+      "loggedAt": "2026-10-02T18:00:13.614Z"
+    },
+    {
+      "id": "log-h-1790795591860-2026-10-02",
+      "habitId": "h-1790795591860",
+      "date": "2026-10-02",
+      "status": "completed",
+      "loggedAt": "2026-10-02T18:00:39.922Z"
+    },
+    {
+      "id": "log-h-9-2026-10-02",
+      "habitId": "h-9",
+      "date": "2026-10-02",
+      "status": "completed",
+      "loggedAt": "2026-10-02T18:16:40.765Z"
+    },
+    {
+      "id": "log-h-8-2026-10-02",
+      "habitId": "h-8",
+      "date": "2026-10-02",
+      "status": "completed",
+      "loggedAt": "2026-10-02T18:16:46.123Z"
+    }
+  ],
+  "freezes": [],
+  "tasks": [
+    {
+      "id": "t-1",
+      "title": "Complete Morning Workout Routine",
+      "dueDate": "2026-10-01",
+      "completed": false,
+      "priority": "high",
+      "category": "Fitness",
+      "habitId": "h-2"
+    },
+    {
+      "id": "t-2",
+      "title": "Q4 Systems Architecture kick-off",
+      "dueDate": "2026-10-01",
+      "completed": false,
+      "priority": "high",
+      "category": "Work"
+    },
+    {
+      "id": "t-3",
+      "title": "Read 20 pages of non-fiction",
+      "dueDate": "2026-10-01",
+      "completed": false,
+      "priority": "medium",
+      "category": "Learning",
+      "habitId": "h-4"
+    },
+    {
+      "id": "t-4",
+      "title": "Hydrate 3 liters throughout day",
+      "dueDate": "2026-10-01",
+      "completed": false,
+      "priority": "low",
+      "category": "Health",
+      "habitId": "h-5"
+    },
+    {
+      "id": "t-5",
+      "title": "Friday strength training gym session",
+      "dueDate": "2026-10-02",
+      "completed": false,
+      "priority": "high",
+      "category": "Fitness",
+      "habitId": "h-2"
+    },
+    {
+      "id": "t-6",
+      "title": "Weekly habit review reflection",
+      "dueDate": "2026-10-02",
+      "completed": false,
+      "priority": "medium",
+      "category": "Personal"
+    },
+    {
+      "id": "t-7",
+      "title": "Weekend long run (8 km)",
+      "dueDate": "2026-10-03",
+      "completed": false,
+      "priority": "high",
+      "category": "Fitness",
+      "goalId": "g-1"
+    },
+    {
+      "id": "t-8",
+      "title": "Organize workspace & declutter desk",
+      "dueDate": "2026-10-04",
+      "completed": false,
+      "priority": "low",
+      "category": "Personal"
+    }
+  ],
+  "goals": [
+    {
+      "id": "g-1",
+      "title": "Get Consistently Fit & Run 100 km",
+      "areaId": "area-1",
+      "category": "Fitness",
+      "targetValue": 100,
+      "currentValue": 5,
+      "unit": "km",
+      "targetDate": "2026-10-31",
+      "connectedHabitIds": [
+        "h-2",
+        "h-5",
+        "h-7"
+      ],
+      "status": "in_progress",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "g-2",
+      "title": "Master Morning Focus & Mindfulness",
+      "areaId": "area-5",
+      "category": "Mindfulness",
+      "targetValue": 31,
+      "currentValue": 1,
+      "unit": "sessions",
+      "targetDate": "2026-10-31",
+      "connectedHabitIds": [
+        "h-1",
+        "h-3",
+        "h-6"
+      ],
+      "status": "in_progress",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "g-3",
+      "title": "Finish 3 Non-Fiction Books",
+      "areaId": "area-2",
+      "category": "Learning",
+      "targetValue": 600,
+      "currentValue": 20,
+      "unit": "pages",
+      "targetDate": "2026-11-01",
+      "connectedHabitIds": [
+        "h-4"
+      ],
+      "status": "in_progress",
+      "createdAt": "2026-10-01"
+    }
+  ],
+  "mindsetLogs": [
+    {
+      "date": "2026-10-01",
+      "energy": 9,
+      "focus": 9,
+      "motivation": 9
+    },
+    {
+      "date": "2026-10-02",
+      "energy": 8,
+      "focus": 8,
+      "motivation": 8
+    },
+    {
+      "date": "2026-10-03",
+      "energy": 9,
+      "focus": 9,
+      "motivation": 9
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n-1790795591861",
+      "title": "New Habit Created 🎯",
+      "message": "\"Morning Cardio\" has been added to your consistency schedule.",
+      "time": "Just now",
+      "read": false,
+      "type": "system"
+    },
+    {
+      "id": "n-1",
+      "title": "Fresh Start 🚀",
+      "message": "Welcome to October 1st! Day 1 of building unstoppable consistency.",
+      "time": "Just now",
+      "read": false,
+      "type": "system"
+    },
+    {
+      "id": "n-2",
+      "title": "Habit Scheduled ⏰",
+      "message": "Your Morning Workout is scheduled for 7:00 AM today.",
+      "time": "1h ago",
+      "read": false,
+      "type": "reminder"
+    }
+  ],
+  "weeklyReview": {
+    "id": "wr-2026-w40",
+    "weekStartDate": "2026-09-28",
+    "completionRate": 100,
+    "consistencyScore": 100,
+    "momentumPercent": 15,
+    "strongestHabitName": "WAKE UP AT 5AM",
+    "attentionHabitName": "Read 20 Pages",
+    "workedWellAnswer": "Starting October 1st with clear intention and structured anchor habits.",
+    "impedimentsAnswer": "None so far. Clean slate established.",
+    "changesNextWeekAnswer": "Maintain daily discipline across all 10 life areas.",
+    "savedAt": "2026-10-01T00:00:00Z"
+  },
+  "lastSyncedAt": "2026-10-03T19:02:39.174Z"
+}
